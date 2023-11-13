@@ -38,3 +38,4 @@ greet("JayanthAkula");
 
 // if we does not give any variable to the function then it will define as undefined
 greet();
+
